@@ -1,4 +1,4 @@
-# Operating-System-Stimulator
+# Operating-System-Simulator
 Nexis Operating System 
 
 Welcome to Nexis OS, a mini operating system simulator built in C++ as a semester project. Nexis demonstrates core OS concepts like multitasking, resource management, and process scheduling, complete with interactive applications. 
