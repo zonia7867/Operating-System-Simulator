@@ -1,7 +1,7 @@
 # Operating-System-Stimulator
-Nexis Operating System 🖥️
+Nexis Operating System 
 
-Welcome to Nexis OS, a mini operating system simulator built in C++ as a semester project. Nexis demonstrates core OS concepts like multitasking, resource management, and process scheduling, complete with interactive applications. 🚀
+Welcome to Nexis OS, a mini operating system simulator built in C++ as a semester project. Nexis demonstrates core OS concepts like multitasking, resource management, and process scheduling, complete with interactive applications. 
 
 # Overview
 Nexis OS simulates a POSIX-compliant operating system, managing tasks across multiple cores with dynamic scheduling and FIFO-based inter-process communication. It includes a suite of applications like Calculator, Hangman, Calendar, and Notepad, each running in separate xterm windows for a user-friendly experience.
@@ -46,7 +46,7 @@ Run the OS:
 # Interact with Nexis:
 Select Kernel Mode (0) to modify resource needs or User Mode (1) for standard operation.
 Enter system specs (RAM, HDD, cores, threads).
-Choose from 16 options, including apps like Calculator 🧮, Hangman 🎮, Calendar 📅, or terminate the OS.
+Choose from 16 options, including apps like Calculator , Hangman , Calendar , or terminate the OS.
 Applications launch in separate xterm windows.
 
 # Exit:
@@ -61,4 +61,4 @@ hangman.cpp: Classic word-guessing game.
 Other application files (e.g., towerofhanoi.cpp, notepad.cpp) for additional features.
 
 Feel free to fork this repository, submit issues, or create pull requests to enhance Nexis OS. Contributions are welcome!
-Happy exploring with Nexis OS! 🌟 For questions or feedback, open an issue or reach out.
+Happy exploring with Nexis OS!  For questions or feedback, open an issue or reach out.
