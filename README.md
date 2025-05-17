@@ -28,7 +28,7 @@ Developed on Ubuntu WSL with Visual Studio 2022, using:
 
 # Installation
 - Clone the Repository:
-git clone https://github.com/zonia7867/Operating-System-Stimulator.git
+git clone https://github.com/zonia7867/Operating-System-Simulator
 cd NexisOS
 
 Compile the Project:
